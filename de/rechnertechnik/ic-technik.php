@@ -6,7 +6,7 @@
 	require "../../lib/technikum29.php";
 ?>
     <h2>Programmierbare Rechner der 3. Generation mit einfacher IC-Technik</h2>
-      <p>Mit der Entwicklung der IC-Technik 1967/68 galoppierte auch die Entwicklung sehr leistungsfähiger Rechner. Hier ist u.a. der teuerste Tischrechner der Welt aufgebaut: <b>WANG 700</b> , dessen Verkaufspreis 1969 mit sehr umfangreicher Peripherie deutlich über 70.000,-DM (35.000 Euro) betrug.
+    <p>Mit der Entwicklung der IC-Technik 1967/68 galoppierte auch die Entwicklung sehr leistungsfähiger Rechner. Hier ist u.a. der teuerste Tischrechner der Welt aufgebaut: <b>WANG 700</b> , dessen Verkaufspreis 1969 mit sehr umfangreicher Peripherie deutlich über 70.000,-DM (35.000 Euro) betrug.
       <br/>Weiterhin kann der erste alphanumerisch anzeigende Rechner (HP 9820, 1971) sowie der erste BASIC-programmierbare Tischrechner der Welt (HP 9830, 1972) vorgeführt werden. Mit diesen Systemen kann man herrlich Funktionsgraphen samt Beschriftung plotten. Drei Jahre zuvor war so etwas undenkbar! 1971 kamen auch die ersten wissenschaftlichen programmierbaren "Taschenrechner" mit der Größe einer Zigarrenkiste auf den Markt.
       </p>
 <h3 id="wang700">WANG 700</h3>
@@ -20,8 +20,8 @@
                <br/> In der Mitte ist der Markierungskartenleser zu sehen, dahinter steht (nicht sichtbar) der manuelle Lochkartenleser. Ganz rechts ist eine von WANG erweiterte IBM Kugelkopfmaschine mit Schrittschaltmotoren eingebaut, die auch plotten kann. Unter dem Rechner befindet sich eine alphanumerische Tastatur, mit welcher auch Text eingegeben und gespeichert werden kann. Ganz unten ist ein zusätzliches Kassetten-Doppellaufwerk mit formatierten Bändern eingebaut. Die Programmierung, eine numerische Assemblersprache, war sehr umst&auml;ndlich. Das Plotterprogramm z.B. beinhaltet 794 (!) Programmschritte. Ein HP-Rechner (z.B. 9830) konnte zwei Jahre sp&auml;ter ein wesentlich komfortableres Plotterprogramm (HP-Basic) mit ganzen 36 Schritten bew&auml;ltigen.
             </p>
          
-		 <h3>WANG 500</h3>
-		 
+<!-- Testbearbeitung -->
+		 <h3>WANG 500</h3> 
 		 <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/wang500.jpg" alt="WANG 500 mit Markierungskartenleser" width="650" height="388"/>
 		<p class="bildtext"><b>WANG 500</b> mit Markierungskartenleser</p></div>
